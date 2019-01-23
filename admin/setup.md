@@ -1,4 +1,4 @@
-# CSCI 121: Introduction to Computer Science
+# CSCI 378: Recommended Computing Setup
 
 ## First steps
 
@@ -42,3 +42,20 @@ This course is taught using Python 3. We recommend the following setup:
 ## Using Anaconda Navigator and Spyder
 
 https://docs.anaconda.com/anaconda/user-guide/getting-started/
+
+## Getting the right packages.
+
+You will need torch for this course. Install this from the terminal by typing:
+
+    pip install torch
+    
+## Github Classroom
+
+Many of the projects and exercises will be administered using Github Classroom.
+
+Please go through the "Accept an Assignment" tutorial at https://classroom.github.com, then
+proceed to the classroom at https://classroom.github.com/classrooms/46545598-csci-378-spring-2019
+and link your Github account (you will have to create one if you don't yet have one) to your
+email address on the roster page.
+
+ 
