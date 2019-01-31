@@ -54,8 +54,4 @@ You will need torch for this course. Install this from the terminal by typing:
 Many of the projects and exercises will be administered using Github Classroom.
 
 Please go through the "Accept an Assignment" tutorial at https://classroom.github.com, then
-proceed to the classroom at https://classroom.github.com/classrooms/46545598-csci-378-spring-2019
-and link your Github account (you will have to create one if you don't yet have one) to your
-email address on the roster page.
-
- 
+proceed to try the first assignment at https://classroom.github.com/a/WqP7Oqmf.
