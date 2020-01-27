@@ -31,7 +31,7 @@ homework assignments. They are important to do, so that you can learn the
 material well. Even if you can't get to the solution, please try to hand in
 a good faith effort. We will spend the first section of each class tackling
 the homework assignment from the last class. You will be required to hand in
-homework solutions, with the freedom to skip four homeworks over the course
+homework solutions, with the freedom to skip *two* homeworks over the course
 of the semester without penalty. I would, however, encourage you not to
 exercise this freedom unless necessary.
 
