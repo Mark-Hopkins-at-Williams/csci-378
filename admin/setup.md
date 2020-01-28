@@ -45,13 +45,7 @@ https://docs.anaconda.com/anaconda/user-guide/getting-started/
 
 ## Getting the right packages.
 
-You will need torch for this course. Install this from the terminal by typing:
+You will need torch and rpyc for this course. Install these from the terminal by typing:
 
     pip install torch
-    
-## Github Classroom
-
-Many of the projects and exercises will be administered using Github Classroom.
-
-Please go through the "Accept an Assignment" tutorial at https://classroom.github.com, then
-proceed to try the first assignment at https://classroom.github.com/a/WqP7Oqmf.
+    pip install rpyc

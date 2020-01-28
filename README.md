@@ -1,6 +1,12 @@
 # CSCI 378: Deep Learning
 ## Spring 2020 Syllabus
 
+### First steps
+
+- Set up Python using the following [instructions](admin/setup.md).
+- Learn to use GitHub Classroom using the following [tutorial](admin/github.md).
+
+
 ### Basic Information
 
 **Professor:** Mark Hopkins, hopkinsm@reed.edu
